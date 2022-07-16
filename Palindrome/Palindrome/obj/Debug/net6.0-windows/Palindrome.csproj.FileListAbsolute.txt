@@ -1,0 +1,17 @@
+D:\Programing\windows form\Palindrome\Palindrome\bin\Debug\net6.0-windows\Palindrome.exe
+D:\Programing\windows form\Palindrome\Palindrome\bin\Debug\net6.0-windows\Palindrome.deps.json
+D:\Programing\windows form\Palindrome\Palindrome\bin\Debug\net6.0-windows\Palindrome.runtimeconfig.json
+D:\Programing\windows form\Palindrome\Palindrome\bin\Debug\net6.0-windows\Palindrome.dll
+D:\Programing\windows form\Palindrome\Palindrome\bin\Debug\net6.0-windows\Palindrome.pdb
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.csproj.AssemblyReference.cache
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.Form1.resources
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.csproj.GenerateResource.cache
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.AssemblyInfoInputs.cache
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.AssemblyInfo.cs
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.csproj.CoreCompileInputs.cache
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.dll
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\refint\Palindrome.dll
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.pdb
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\Palindrome.genruntimeconfig.cache
+D:\Programing\windows form\Palindrome\Palindrome\obj\Debug\net6.0-windows\ref\Palindrome.dll
