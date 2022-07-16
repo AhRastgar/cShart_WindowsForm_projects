@@ -1,0 +1,17 @@
+D:\Programing\windows form\Radius\Radius\bin\Debug\net6.0-windows\Radius.exe
+D:\Programing\windows form\Radius\Radius\bin\Debug\net6.0-windows\Radius.deps.json
+D:\Programing\windows form\Radius\Radius\bin\Debug\net6.0-windows\Radius.runtimeconfig.json
+D:\Programing\windows form\Radius\Radius\bin\Debug\net6.0-windows\Radius.dll
+D:\Programing\windows form\Radius\Radius\bin\Debug\net6.0-windows\Radius.pdb
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.csproj.AssemblyReference.cache
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.Form1.resources
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.csproj.GenerateResource.cache
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.AssemblyInfoInputs.cache
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.AssemblyInfo.cs
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.csproj.CoreCompileInputs.cache
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.dll
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\refint\Radius.dll
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.pdb
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\Radius.genruntimeconfig.cache
+D:\Programing\windows form\Radius\Radius\obj\Debug\net6.0-windows\ref\Radius.dll
